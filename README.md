@@ -6,6 +6,7 @@ pip install pyserial
 pip install time
 pip install keyboard
 pip install textwrap
+pip install tqdm
 ~~~
 ## Run
 For mac
