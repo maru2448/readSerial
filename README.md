@@ -19,3 +19,4 @@ For windows
 Open terminal and run code below
 ~~~bash
 python run.py
+~~~
